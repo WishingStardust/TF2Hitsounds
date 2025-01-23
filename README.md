@@ -64,3 +64,7 @@ metalhit.wav - Metal hit sound from Terraria
 scutlix.wav - Scutlix hit sound from Terraria
 
 icehit.wav - Ice hit sound from Terraria
+
+bababa.wav - Banana Launcher from Plants Vs. Zombies 2 (Use as hitsound)
+
+banana.wav - Banana Launcher from Plants Vs. Zombies 2 (Use as killsound)
